@@ -1,5 +1,7 @@
 # Adaptive Typing Challenge ⌨️✨
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 ## Description
 The **Adaptive Typing Challenge** is an interactive web application designed to **test and improve typing speed and accuracy**. It dynamically adapts difficulty based on your performance and provides **visual feedback**, **animated effects**, and a **progress bar** for an engaging experience.
 
